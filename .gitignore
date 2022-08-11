@@ -1,6 +1,9 @@
 .user.ini
 webhooks.php
-
+zz.log
+.htaccess
+404.html
+git_webhook_log.txt
 
 
 
